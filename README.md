@@ -1,7 +1,7 @@
 
 # MUSE RPG Framework
 
-This is a public repostitory for the MUSE RPG framework. For those who prefer a quick, local way to pull updates for the framework without relying on [muserpg.com](https://muserpg.com/) this is the best method we have found.
+This is a public repostitory for the MUSE RPG framework. For those who prefer a quick, local way to pull updates for the framework without relying on [muserpg.com](https://muserpg.com/), this is the best method we have found.
 
 This repo will be regularly updated each time anything on the site changes.
 
